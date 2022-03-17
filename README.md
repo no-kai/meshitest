@@ -43,3 +43,4 @@ gem 'font-awesome-sass', '~> 5.13'
 ## その他
 - sticky-footer
 - toggle-menuの閉じるcss
+- gohanのpush問題確認
